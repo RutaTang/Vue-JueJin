@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="content">
-        <iframe src="https://mp.weixin.qq.com/s/PUdfChwnon4hAZGTUvR8Qw" frameborder="0" width="100%" :style="{height:height}"></iframe>
+        <iframe src="https://mp.weixin.qq.com/s/PUdfChwnon4hAZGTUvR8Qw" frameborder="0" width="100%" :style="{height:iframeHeight}"></iframe>
       </div>
       <div class="footer">
         <i class="iconfont" style="margin-left: 20px;color: #2ecc71">&#xe791;</i>
@@ -31,6 +31,7 @@
         data(){
           return{
             height: window.innerHeight+'px',
+            iframeHeight: window.innerHeight-110+'px'
           }
         },
         methods:{
@@ -83,7 +84,7 @@
   }
   .ReadArticle{
     box-shadow: -0.1px 0.1px 2px 0 rgba(0,0,0,0.4);
-    position: absolute;
+    position: fixed;
     top: 0;
     width: 100%;
     background: white;

@@ -7,7 +7,7 @@
           <i @click="show=false" class="iconfont" style="color: rgba(0,0,0,0.1);margin-right: 20px">&#xe63c;</i>
         </div>
         <hr>
-        <div v-for="hot in hots">
+        <div v-for="hot in hots" @click="showReadArtcile()">
           <div style="display: flex;padding-left: 20px;justify-content: space-between;align-items: center">
             <div>
               <p style="font-size: 15px">{{hot.title}}</p>
@@ -56,7 +56,13 @@
             ],
             show: true
           }
+        },
+      methods:{
+        showReadArtcile:function () {
+          this.$store.commit('showReadArticle',true)
         }
+      }
+
     }
 </script>
 

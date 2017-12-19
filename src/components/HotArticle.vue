@@ -8,7 +8,7 @@
          <hr>
        </div>
        <div style="background: white">
-         <div v-for="article in hotArticles">
+         <div v-for="article in hotArticles" @click="showReadArtcile()">
            <div style="padding: 10px 10px;padding-bottom: 30px">
              <p style="font-size: 14px;">{{article.title}}</p>
              <p style="font-size: 10px;color: rgba(0,0,0,0.4)">{{article.love}}人喜欢 · {{article.auth}} · {{article.time}}小时前</p>
@@ -57,7 +57,12 @@
               }
             ],
           }
+        },
+      methods:{
+        showReadArtcile:function () {
+          this.$store.commit('showReadArticle',true)
         }
+      }
     }
 </script>
 
