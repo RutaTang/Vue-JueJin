@@ -8,14 +8,6 @@ Vue+Vuex
 ### GIF
 ![](http://ox0uo3p10.bkt.clouddn.com/%E6%8E%98%E9%87%91.gif)
 
-### 巨大的截图～～
-
-![](http://ox0uo3p10.bkt.clouddn.com/juejin/Home.png)
-![](http://ox0uo3p10.bkt.clouddn.com/juejin/SearchPage.png)
-![](http://ox0uo3p10.bkt.clouddn.com/juejin/PeopleCenter.png)
-![](http://ox0uo3p10.bkt.clouddn.com/juejin/ReadArticle.png)
-
-
 
 ## 安装步骤
 
