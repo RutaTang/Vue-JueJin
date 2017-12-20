@@ -6,19 +6,15 @@ Vue+Vuex
 ## 长这样
 
 ###GIF
-
-<div style="width:100%;text-align:center">
-	<img style="width:inherit" src="http://ox0uo3p10.bkt.clouddn.com/%E6%8E%98%E9%87%91.gif"></img>
-</div>
+![](http://ox0uo3p10.bkt.clouddn.com/%E6%8E%98%E9%87%91.gif)
 
 ###巨大的截图～～
 
-<div class="screen" style="width:100%;text-align:center;">
-	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/Home.png">
-	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/SearchPage.png">
-	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/PeopleCenter.png">
-	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/ReadArticle.png">
-</div>
+![](http://ox0uo3p10.bkt.clouddn.com/juejin/Home.png)
+![](http://ox0uo3p10.bkt.clouddn.com/juejin/SearchPage.png)
+![](http://ox0uo3p10.bkt.clouddn.com/juejin/PeopleCenter.png)
+![](http://ox0uo3p10.bkt.clouddn.com/juejin/ReadArticle.png)
+
 
 
 ## 安装步骤
