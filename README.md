@@ -14,18 +14,11 @@ Vue+Vuex
 ###巨大的截图～～
 
 <div class="screen" style="width:100%;text-align:center;">
-	<img src="http://ox0uo3p10.bkt.clouddn.com/juejin/Home.png">
-	<img src="http://ox0uo3p10.bkt.clouddn.com/juejin/SearchPage.png">
-	<img src="http://ox0uo3p10.bkt.clouddn.com/juejin/PeopleCenter.png">
-	<img src="http://ox0uo3p10.bkt.clouddn.com/juejin/ReadArticle.png">
+	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/Home.png">
+	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/SearchPage.png">
+	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/PeopleCenter.png">
+	<img style="margin-top:10px" src="http://ox0uo3p10.bkt.clouddn.com/juejin/ReadArticle.png">
 </div>
-
-<style>
-	.screen img{
-		margin: 10px 0;
-	}
-
-</style>
 
 
 ## 安装步骤
